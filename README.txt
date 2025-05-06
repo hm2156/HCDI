@@ -1,31 +1,24 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Huda Marta — Portfolio Website
+👋 Hi, I’m Huda, a creative systems thinker and aspiring software engineer. This is my personal portfolio showcasing select projects, design work, and explorations in education, technology, and real-world systems.
 
+🌐 Live Site: https://hm2156.github.io
+📧 Contact: ham2167@columbia.edu
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
+🔍 Featured Work
+IRL Lab: A New Teaching Framework
+A system-level redesign of the engineering lab experience. IRL integrates live industry projects directly into classrooms, using existing infrastructure to bridge academia and industry in a scalable, low-cost way.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+🛠 Built With
+Template: Photon by HTML5 UP
 
-(* = Not included)
+Tech: HTML5, CSS3, JavaScript
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Icons: Font Awesome
 
-AJ
-aj@lkn.io | @ajlkn
+Photos: Unsplash
 
+Hosting: GitHub Pages
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+📄 License
+Template licensed under Creative Commons Attribution 3.0.
+Custom content © 2025 Huda Marta.
